@@ -48,7 +48,7 @@ export const skills = [
         documentation and tutorials to expressive storytelling and reflections.
         <div className="flex flex-wrap items-center mt-2">
           <a
-            href="https://your-hasnode-link.com"
+            href="https://restwithgres.hashnode.dev/how-to-build-a-rest-api-using-expressjs"
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#00ff88] underline hover:text-white transition-colors"
@@ -57,7 +57,7 @@ export const skills = [
           </a>
           <span className="mx-3 text-gray-500">|</span>
           <a
-            href="https://instagram.com/your_ig_handle"
+            href="https://www.instagram.com/the_flavoured_pen?igsh=MXZ2dmY5Mzlya2g4NA=="
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#00ff88] underline hover:text-white transition-colors"

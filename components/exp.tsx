@@ -103,9 +103,10 @@ export default function Experience() {
   return (
     <section className="min-h-screen px-4 sm:px-6 lg:px-8 pt-32 pb-16 bg-black">
       <div className="max-w-6xl mx-auto w-full">
-        <h2 className="text-5xl sm:text-6xl font-bold text-white text-center mb-4 font-mono">
+        <h2 className="text-4xl sm:text-5xl font-bold text-white text-center mb-4 font-mono">
           EXPERIENCE & CERTIFICATIONS
         </h2>
+
         <div className="h-1 w-32 bg-[#00ff88] mx-auto mb-12"></div>
 
         {/* Experience Section */}

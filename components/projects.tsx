@@ -60,11 +60,11 @@ export default function Projects() {
           type: "code",
           href: "https://github.com/Ahny678/IntelliScout",
         },
-        {
-          label: "PREVIEW",
-          type: "preview",
-          href: "https://e-chronicles.onrender.com/api",
-        },
+        // {
+        //   label: "PREVIEW",
+        //   type: "preview",
+        //   href: "https://e-chronicles.onrender.com/api",
+        // },
       ],
     },
     {

@@ -41,7 +41,7 @@ export default function Hero() {
             VIEW EXPERIENCE
           </Link>
           <Link
-            href="/Tiffany Ugwunebo _ Software Developer&.pdf"
+            href="/TIFFANY UGWUNEBO _ BACKEND DEVELOPER .pdf"
             className="px-8 py-3 border-2 border-white text-white font-bold rounded-full hover:bg-white/10 transition-colors"
           >
             DOWNLOAD CV
